@@ -5,3 +5,10 @@ __pycache__/
 venv/
 files.zip
 .streamlit/secrets.toml
+tools/
+cf-out.txt
+cf-err.txt
+lt-out.txt
+lt-err.txt
+serveo-out.txt
+serveo-err.txt
